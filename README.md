@@ -1,4 +1,9 @@
-# helloworld
+hello world program
 
 
-Hello World program in c 
+gcc helloworld.c
+
+./helloworld
+
+
+Expected Output
